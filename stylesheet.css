@@ -1,0 +1,36 @@
+@font-face{ 
+	font-family: 'sail-regular';
+	src: url('fontkit/sail-regular.eot');
+	src: url('fontkit/sail-regular.eot?#iefix') format('embedded-opentype'),
+	     url('fontkit/sail-regular.woff') format('woff'),
+	     url('fontkit/sail-regular.ttf') format('truetype'),
+	     url('fontkit/sail-regular.svg#webfont') format('svg');
+}
+
+body{
+	background-color: #EC8373;
+}
+
+h1{
+	font-family: 'Helvetica';
+	font-size: 400px;
+	color: #FFFFFF;
+	display: inline;
+}
+
+h2{
+	font-family: 'sail-regular';
+	font-size: 150px;
+	color: #FFFFFF;
+	display: inline;
+}
+
+h3{
+	font-family: 'sail-regular';
+	font-size: 100px;
+	color: #FFFFFF;
+}
+
+a{
+	color: #FFFFFF;
+}
