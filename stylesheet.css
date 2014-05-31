@@ -44,5 +44,6 @@ h3{
 
 a{
 	color: #FFFFFF;
-	float: right;
+	position: absolute;
+	bottom: 5px;
 }
