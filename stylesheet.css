@@ -10,13 +10,19 @@
 body{
 	background-color: #EC8373;
 }
+.title {
+	display: block;
+	margin: 0 auto;
+	width: 800px;
+}
 
 h1{
 	font-family: 'Helvetica';
 	font-size: 400px;
 	color: #FFFFFF;
 	text-align: center;
-	padding: -80px;
+	margin: 0;
+	display:inline-block;
 }
 
 h2{
@@ -24,6 +30,8 @@ h2{
 	font-size: 150px;
 	color: #FFFFFF;
 	text-align: center;
+	margin: 0;
+	display:inline-block ;
 }
 
 h3{
@@ -31,6 +39,7 @@ h3{
 	font-size: 100px;
 	color: #FFFFFF;
 	text-align: center;
+	margin: 50px;
 }
 
 a{
