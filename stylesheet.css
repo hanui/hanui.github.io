@@ -18,7 +18,7 @@ body{
 
 h1{
 	font-family: 'Helvetica';
-	font-size: 300px;
+	font-size: 400px;
 	color: #FFFFFF;
 	text-align: center;
 	margin: 0;
@@ -27,7 +27,7 @@ h1{
 
 h2{
 	font-family: 'sail-regular';
-	font-size: 100px;
+	font-size: 150px;
 	color: #FFFFFF;
 	text-align: center;
 	margin: 0;
@@ -36,7 +36,7 @@ h2{
 
 h3{
 	font-family: 'sail-regular';
-	font-size: 50px;
+	font-size: 100px;
 	color: #FFFFFF;
 	text-align: center;
 	margin: 50px;
@@ -44,7 +44,7 @@ h3{
 
 a{
 	color: #FFFFFF;
-	font-size: 15px;
+	font-size: 35px;
 	position: absolute;
 	bottom: 5px;
 }
